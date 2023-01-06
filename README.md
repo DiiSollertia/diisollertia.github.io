@@ -1,2 +1,2 @@
-# khooxinzhen.github.io
+# diisollertia.github.io
 Personal static webpage.
